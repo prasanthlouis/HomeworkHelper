@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\exploded-aar\HomeworkHelper-master3\supertoasts\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7b5e3af034d7cb5bf7a40ffb5968c95dc968d0de">
+        <dex dex="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\pre-dexed\debug\classes-ec12389e8efb904241be844d60df51fbfacbefb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasanth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-f4dd228f5c3aec968f5c9639ff1b942f0a2227ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\pre-dexed\debug\classes-8872af1e37fef9941602761676d8bb07b80925a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\pre-dexed\debug\classes-fb706cf43e38ab99a5a97cbf5bcd98dc9ea666d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Prasanth\AndroidStudioProjects\HomeworkHelper-master3\homeworkhelper\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ac89f076de1372f00159397aef13b26ec5d73bd4.jar" />
+    </item>
+
+</items>

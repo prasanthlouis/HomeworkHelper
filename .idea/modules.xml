@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeworkHelper-master3.iml" filepath="$PROJECT_DIR$/HomeworkHelper-master3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworkhelper/homeworkhelper.iml" filepath="$PROJECT_DIR$/homeworkhelper/homeworkhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supertoasts/supertoasts.iml" filepath="$PROJECT_DIR$/supertoasts/supertoasts.iml" />
+    </modules>
+  </component>
+</project>
