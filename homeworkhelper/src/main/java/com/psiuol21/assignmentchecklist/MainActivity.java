@@ -53,12 +53,13 @@ public class MainActivity extends AppCompatActivity {
         date.setTypeface(font);
         subject.setTypeface(font);
         des.setTypeface(font);
-        checker();
-        checker2();
+        checker(myView);
+        check(myView1);
+       // checker2();
 		
 	}
 
-    public void checker() {
+    public void checker(View myView) {
         myView.getViewTreeObserver().addOnPreDrawListener(
                 new ViewTreeObserver.OnPreDrawListener() {
                     public boolean onPreDraw() {
@@ -84,37 +85,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
     }
-    public void checker2()
-    {
-
-        myView1.getViewTreeObserver().addOnPreDrawListener(
-                new ViewTreeObserver.OnPreDrawListener() {
-                    public boolean onPreDraw() {
-                        if (currentapiVersion >= Build.VERSION_CODES.LOLLIPOP) {
-                            int finalHeight = myView1.getMeasuredHeight();
-                            int finalWidth = myView1.getMeasuredWidth();
-                            // Do your work here
-                            myView1.getViewTreeObserver().removeOnPreDrawListener(this);
-
-                            cx2 = finalHeight / 2;
-                            cy2 = finalWidth / 2;
-
-
-                            finalRadius2 = Math.max(finalHeight, finalWidth);
-                            anim1 = ViewAnimationUtils.createCircularReveal(myView1, cx2, cy2, 0, finalRadius2);
-                            myView1.setVisibility(View.VISIBLE);
-                            anim1.setDuration(2000);
-
-                            anim1.start();
-
-                        }
-                        return true;
-                    }
-                });
-
-
-
-    }
+    
 	public void addassign(View v)
 	{
 	
