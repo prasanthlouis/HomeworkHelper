@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         subject.setTypeface(font);
         des.setTypeface(font);
         checker(myView);
-        check(myView1);
+        checker(myView1);
        // checker2();
 		
 	}
